@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  nubank
+  nubank :pound:
 </h3>
 
 <blockquote align="center">Clone da interface mobile do Nubank.</blockquote>
