@@ -31,5 +31,5 @@
 
 1. Clone este repositorio.
 2. `cd nubank`<br />
-3. `yarn` para instalar as dependências.<br />
+3. `yarn install` para instalar as dependências.<br />
 4. `react-native run-android` para testar em seu aparelho.<br />
